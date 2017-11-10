@@ -17,4 +17,4 @@
 
 第四步 在ruby rails框架中实现数据库基本增删查改操作，并在网页前端实现对应操作的数据显示
 
-<img src="/lib/5.jpg" width="700">  
+<img src="/lib/6.jpg" width="700">  
