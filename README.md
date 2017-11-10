@@ -1,24 +1,20 @@
-# README
+第一步 创建新的Rails项目，启动服务器，实现本地端口访问
+### 截图
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<img src="/lib/1.jpg" width="700">  
 
-Things you may want to cover:
+第二步 在浏览器中显示本地时间显示，link到其他主页
+### 截图
 
-* Ruby version
+<img src="/lib/2.jpg" width="700">  
+<img src="/lib/3.jpg" width="700"> 
 
-* System dependencies
+第三步 在浏览器中点击按钮，实现页面跳转
+### 截图
 
-* Configuration
+<img src="/lib/4.jpg" width="700">  
+<img src="/lib/5.jpg" width="700"> 
 
-* Database creation
+第四步 在ruby rails框架中实现数据库基本增删查改操作，并在网页前端实现对应操作的数据显示
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<img src="/lib/5.jpg" width="700">  
